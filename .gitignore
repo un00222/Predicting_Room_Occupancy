@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data/outputs (uncomment if you don't want them tracked)
+# data/
+# outputs/
+# *.csv
+# *.xlsx
+# *.png
+# *.jpg
