@@ -2,8 +2,6 @@
 
 A clean, modular implementation of multiple machine‑learning approaches for predicting room occupancy from sensor data. The repository includes **KNN**, **Closed‑Form Linear Regression**, **Linear Discriminant Analysis (LDA)**, **Proportional Odds (ordinal logistic)**, and a **Bagging ensemble**, with shared utilities for normalization and evaluation.
 
-> This README formats the original project notes into a developer‑friendly guide you can drop into your repo.
-
 ---
 
 ##  Requirements
