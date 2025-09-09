@@ -265,12 +265,3 @@ python bagging.py
 
 ---
 
-## Tips & Notes
-
-- Keep `occupancy_estimation.csv` small enough to share, or **exclude** it from Git with `.gitignore`.
-- If enabling **SMOTE** in `utils.py`, document your rationale and sampling strategy.
-- For reproducibility, fix random seeds and record library versions (`pip freeze > requirements.txt`).
-
----
-
-#
